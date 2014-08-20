@@ -1,0 +1,9 @@
+# -*- mode: org-mode -*
+
+* README
+
+Super-repo to compile PhD manuscript from chapters in subrepos: GAChapter, LiteratureReview, MethodsChapter, SimpleResponsesChapter, and VowelProcessingChapter. 
+
+The final manuscript PDF is generated in _org-manuscript_.
+
+
