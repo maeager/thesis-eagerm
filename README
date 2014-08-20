@@ -1,9 +1,17 @@
+#+TITLE: Chapter 3
+#+DATE:
+#+AUTHOR: Michael A Eager
+#+EMAIL: mick.eager@gmail.com
 # -*- mode: org-mode -*
 
 * README
 
-Super-repo to compile PhD manuscript from chapters in subrepos: GAChapter, LiteratureReview, MethodsChapter, SimpleResponsesChapter, and VowelProcessingChapter. 
+Super-repo to compile PhD manuscript from chapters in subrepos: GAChapter, 
+LiteratureReview, MethodsChapter, SimpleResponsesChapter, and VowelProcessingChapter. 
 
 The final manuscript PDF is generated in _org-manuscript_.
 
+To compile and generate the manuscript, run 'make all'.
 
+For dependencies and other comments read the README file in org-manuscript and 
+SimpleResponsesChapter.
