@@ -1,0 +1,6 @@
+org-manuscript = ssh://hg@bitbucket.org/eagerm/org-manuscript
+LiteratureReview = ssh://hg@bitbucket.org/eagerm/literaturereview
+MethodsChapter = ssh://hg@bitbucket.org/eagerm/methodschapter
+SimpleResponsesChapter = ssh://hg@bitbucket.org/eagerm/simpleresponseschapter
+VowelProcessingChapter = ssh://hg@bitbucket.org/eagerm/amprocessingchapter
+GAChapter = ssh://hg@bitbucket.org/eagerm/gachapter
