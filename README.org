@@ -2,16 +2,33 @@
 #+DATE:
 #+AUTHOR: Michael A Eager
 #+EMAIL: mick.eager@gmail.com
-# -*- mode: org-mode -*
+# 
 
 * README
 
-Super-repo to compile PhD manuscript from chapters in subrepos: GAChapter, 
-LiteratureReview, MethodsChapter, SimpleResponsesChapter, and VowelProcessingChapter. 
+To clone this repo, be sure to grab the added submodules:
+#+BEGIN_SRC sh
+git clone --recursive https://github.com/maeager/thesis-eagerm
+#+END_SRC
+or, if you forgot, use:
+#+BEGIN_SRC sh
+git submodule update --init --recursive
+#+END_SRC
+
+Super-repo to grab my PhD manuscript from chapters in subrepos: 
+  - org-manuscript,
+  - LiteratureReview,
+  - MethodsChapter, 
+  - SimpleResponsesChapter,  
+  - VowelProcessingChapter, and
+  - GAChapter. 
 
 The final manuscript PDF is generated in _org-manuscript_.
 
-To compile and generate the manuscript, run 'make all'.
+To compile and generate the manuscript, run:
+#+BEGIN_SRC sh
+make all
+#+END_SRC
 
 For dependencies and other comments read the README file in org-manuscript and 
 SimpleResponsesChapter.
