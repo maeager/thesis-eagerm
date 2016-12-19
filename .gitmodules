@@ -1,0 +1,18 @@
+[submodule "SimpleResponsesChapter"]
+	path = SimpleResponsesChapter
+	url = https://github.com/maeager/SimpleResponsesChapter
+[submodule "org-manuscript"]
+	path = org-manuscript
+	url = https://github.com/maeager/org-manuscript
+[submodule "LiteratureReview"]
+	path = LiteratureReview
+	url = https://github.com/maeager/litreview-eagerm
+[submodule "MethodsChapter"]
+	path = MethodsChapter
+	url = https://github.com/maeager/MethodsChapter
+[submodule "AMprocessingChapter"]
+	path = AMprocessingChapter
+	url = https://github.com/maeager/AMprocessingChapter
+[submodule "GAchapter"]
+	path = GAchapter
+	url = https://github.com/maeager/GAchapter
