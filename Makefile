@@ -1,5 +1,5 @@
 CHAPTERFOLDERS=GAChapter LiteratureReview MethodsChapter SimpleResponsesChapter	VowelProcessingChapter	#org-manuscript
-PDFREADER=evince
+PDFREADER=open
 
 all:
 	for sub in $(CHAPTERFOLDERS); do make -C $$sub all; done
