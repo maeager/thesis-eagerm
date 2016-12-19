@@ -1,4 +1,4 @@
-CHAPTERFOLDERS=GAChapter LiteratureReview MethodsChapter SimpleResponsesChapter	VowelProcessingChapter	#org-manuscript
+CHAPTERFOLDERS=GAChapter LiteratureReview MethodsChapter SimpleResponsesChapter	AMProcessingChapter	#org-manuscript
 PDFREADER=open
 
 all:
